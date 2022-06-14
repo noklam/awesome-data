@@ -15,3 +15,14 @@ Ever growing to-read list
 - [ ]       Amazon Redshi! Re-invented ([https://lnkd.in/gBdBHzpA](https://lnkd.in/gBdBHzpA))
 ## Storage System
 
+- Haystack (https://lnkd.in/gSZYcmmB)
+- [ ] f4: Facebook’s Warm BLOB Storage System (https://lnkd.in/gMEfTpAh)
+- [ ] The Hadoop Distributed File System (https://lnkd.in/gSUqafDg)
+- [ ] The Google File System (https://lnkd.in/giUResea)
+- [ ] Facebook's Tectonic Filesystem: Efficiency from Exascale (https://lnkd.in/geg7-ub9)
+- [ ] Pelican: A Building Block for Exascale Cold Data Storage (https://lnkd.in/gSse26YK)
+- [ ] CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data (https://lnkd.in/gUbnK4rH)
+- [ ] RADOS: a scalable, reliable storage service for petabyte-scale storage (https://lnkd.in/gKwbmzTx)
+- [ ] Megastore: Providing Scalable, Highly Available Storage for Interactive Services (https://lnkd.in/gT7mSDQN)
+- [ ] The Design and Implementation of a Log-Structured File System (https://lnkd.in/gVuka_Ym)
+- [ ] The RAMCloud Storage System (https://lnkd.in/gC3SQccF)
