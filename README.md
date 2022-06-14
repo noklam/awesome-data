@@ -15,7 +15,7 @@ Ever growing to-read list
 - [ ]       Amazon Redshi! Re-invented ([https://lnkd.in/gBdBHzpA](https://lnkd.in/gBdBHzpA))
 ## Storage System
 
-- Haystack (https://lnkd.in/gSZYcmmB)
+- [ ] Haystack (https://lnkd.in/gSZYcmmB)
 - [ ] f4: Facebook’s Warm BLOB Storage System (https://lnkd.in/gMEfTpAh)
 - [ ] The Hadoop Distributed File System (https://lnkd.in/gSUqafDg)
 - [ ] The Google File System (https://lnkd.in/giUResea)
